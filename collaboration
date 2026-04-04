@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Xiaoti Cui | Collaboration</title>
+
+<meta name="description" content="Collaboration opportunities with Xiaoti Cui at Aalborg University in electrolysis, hydrogen technologies, Power-to-X systems, and related advisory activities.">
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+max-width: 900px;
+margin:auto;
+padding:40px;
+line-height:1.7;
+color:#222;
+}
+
+nav{
+margin-bottom:35px;
+padding-bottom:10px;
+border-bottom:1px solid #dddddd;
+}
+
+nav a{
+margin-right:20px;
+text-decoration:none;
+color:#1a5fb4;
+font-weight:bold;
+}
+
+nav a:hover{
+text-decoration:underline;
+}
+
+.header{
+margin-bottom:30px;
+}
+
+.page-title{
+font-size:30px;
+font-weight:bold;
+margin-bottom:8px;
+}
+
+.subtitle{
+color:#555;
+max-width:780px;
+}
+
+.section{
+margin-bottom:30px;
+}
+
+ul{
+padding-left:20px;
+}
+
+li{
+margin-bottom:10px;
+}
+
+.note{
+color:#555;
+font-size:15px;
+}
+
+@media (max-width:700px){
+
+body{
+padding:25px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="visuals.html">Research Highlights</a>
+<a href="industry.html">Collaboration</a>
+</nav>
+
+<div class="header">
+<div class="page-title">Collaboration</div>
+<div class="subtitle">
+I welcome collaborations with academic and industrial partners, and I am also open to advisory and consulting activities related to electrochemical energy systems.
+</div>
+</div>
+
+<div class="section">
+<h2>Areas of Collaboration</h2>
+<ul>
+<li>Solid oxide electrolysis technologies</li>
+<li>Diagnostics and degradation of electrolysis systems</li>
+<li>Flexible Power-to-X systems</li>
+<li>Hydrogen and e-fuels production</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Possible Formats</h2>
+<ul>
+<li>Joint research projects</li>
+<li>Academic-industrial collaboration</li>
+<li>Project development for Danish and EU funding programmes</li>
+<li>Technical advisory and expert input</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Who May Be Interested</h2>
+<p>
+Potential collaborators may include researchers, industrial partners, start-ups, technology developers, and organizations interested in electrolysis, e-fuels technologies, and Power-to-X systems.
+</p>
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+<p>
+If you are interested in collaboration or advisory activities, please feel free to contact me by email.
+</p>
+<p>
+Email: <a href="mailto:xcu@energy.aau.dk">xcu@energy.aau.dk</a>
+</p>
+</div>
+
+<div class="note">
+Please note that collaboration and advisory activities are considered in accordance with relevant institutional frameworks and project contexts.
+</div>
+
+</body>
+
+</html>
